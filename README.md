@@ -17,6 +17,6 @@
 </p>
 <p align="center">
       <img src="svg/yArfaj-java.svg" alt="java" height="35"/>
-      <img src="svg/yArfaj-adopexd.svg" alt="adopexd" height="35"/>
+      <img src="svg/yArfaj-adobexd.svg" alt="adobeXD" height="35"/>
       <img src="svg/yArfaj-git.svg" alt="git" height="35"/>
 </p>

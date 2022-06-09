@@ -7,16 +7,16 @@
       <img src="svg/yArfaj-CSS.svg" alt="CSS" height="35"/>
       <img src="svg/yArfaj-Javascript.svg" alt="Javascript" height="35"/>
       <img src="svg/yArfaj-bootstrap.svg" alt="bootstrap" height="35"/>
-      <img src="svg/yArfaj-vue.svg" alt="vue" height="35"/>
+      <img src="svg/yArfaj-Vue.svg" alt="vue" height="35"/>
 </p>
 <p align="center">
-      <img src="svg/yArfaj-node.svg" alt="node" height="35"/>
-      <img src="svg/yArfaj-express.svg" alt="express" height="35"/>
-      <img src="svg/yArfaj-mongodb.svg" alt="mongodb" height="35"/>
-      <img src="svg/yArfaj-mysql.svg" alt="mysql" height="35"/>
+      <img src="svg/yArfaj-Node.svg" alt="node" height="35"/>
+      <img src="svg/yArfaj-Express.svg" alt="express" height="35"/>
+      <img src="svg/yArfaj-MongoDB.svg" alt="mongodb" height="35"/>
+      <img src="svg/yArfaj-mySQL.svg" alt="mysql" height="35"/>
 </p>
 <p align="center">
-      <img src="svg/yArfaj-java.svg" alt="java" height="35"/>
-      <img src="svg/yArfaj-adobexd.svg" alt="adobeXD" height="35"/>
-      <img src="svg/yArfaj-git.svg" alt="git" height="35"/>
+      <img src="svg/yArfaj-Java.svg" alt="java" height="35"/>
+      <img src="svg/yArfaj-AdobeXD.svg" alt="adobeXD" height="35"/>
+      <img src="svg/yArfaj-Git.svg" alt="git" height="35"/>
 </p>

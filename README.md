@@ -1,13 +1,14 @@
 # SWE Student
 
-## <img style="margin-right: 15px;" src="imgs/coding.svg" alt="HTML"  height="20"/> Tools & Technologies
+## <img style="margin-right: 15px;" src="svg/yarfaj-Coding.svg" alt="HTML"  height="25"/> Tools & Technologies
 
 <p align="center">
       <img src="svg/yArfaj-HTML.svg" alt="HTML" height="55"/>
       <img src="svg/yArfaj-CSS.svg" alt="CSS" height="55"/>
       <img src="svg/yArfaj-Javascript.svg" alt="Javascript" height="55"/>
-      <img src="svg/yArfaj-bootstrap.svg" alt="bootstrap" height="55"/>
+      <img src="svg/yArfaj-Bootstrap.svg" alt="bootstrap" height="55"/>
       <img src="svg/yArfaj-Vue.svg" alt="vue" height="55"/>
+      <img src="svg/yArfaj-React.svg" alt="React" height="55"/>
 </p>
 <p align="center">
       <img src="svg/yArfaj-NodeJS.svg" alt="node" height="55"/>

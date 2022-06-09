@@ -10,7 +10,7 @@
       <img src="svg/yArfaj-Vue.svg" alt="vue" height="35"/>
 </p>
 <p align="center">
-      <img src="svg/yArfaj-Node.svg" alt="node" height="35"/>
+      <img src="svg/yArfaj-NodeJS.svg" alt="node" height="35"/>
       <img src="svg/yArfaj-Express.svg" alt="express" height="35"/>
       <img src="svg/yArfaj-MongoDB.svg" alt="mongodb" height="35"/>
       <img src="svg/yArfaj-mySQL.svg" alt="mysql" height="35"/>

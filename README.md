@@ -1,7 +1,6 @@
 # SWE Student
 
-<!--
-## <img style="margin-right: 15px; fill:red" src="imgs/coding.svg" alt="HTML"  height="15"/> Tools & Technologies
+## <img style="margin-right: 15px;" src="imgs/coding.svg" alt="HTML"  height="20"/> Tools & Technologies
 
 <p align="center">
       <img src="svg/yArfaj-HTML.svg" alt="HTML" height="35"/>
@@ -20,4 +19,4 @@
       <img src="svg/yArfaj-java.svg" alt="java" height="35"/>
       <img src="svg/yArfaj-adobexd.svg" alt="adobeXD" height="35"/>
       <img src="svg/yArfaj-git.svg" alt="git" height="35"/>
-</p> -->
+</p>

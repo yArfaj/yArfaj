@@ -21,7 +21,3 @@
       <img src="svg/yArfaj-AdobeXD.svg" alt="adobeXD" height="55"/>
       <img src="svg/yArfaj-Git.svg" alt="git" height="55"/>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yArfaj)](https://github.com/yArfaj)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yArfaj&layout=compact&theme=dark)](https://github.com/yArfaj)
